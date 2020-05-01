@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9fa6448-ae10-4961-b5f7-450af7254b68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/appium_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appium_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assertion/Assertion_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Assertion_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assertion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Excel_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/jinli_Interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/sign_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/sign_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/test03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/token_proving.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinli_ap/Location_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Location_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinli_ap/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Get_excel_open.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinli_ap/jinli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinli_ap/mito.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinli_ap/operation_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operation_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinli_ap/start_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/start_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/pages.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operatio_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_backstage/real_name_audit.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_backstage/real_name_audit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smasheggs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operation_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smasheggs/golden_eggs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smasheggs/loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smasheggs/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smasheggs/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smasheggs/zadan.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/excel_edit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/excel_edit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/read_ini.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/read_ini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/xlsx配置文件.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="4fca066c-dbd9-4f2f-aab6-158df09d5c3b" />
+  <component name="ProjectId" id="1bIVyElsMzTWYNzP3IHB02SdUGj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Public_method" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Get_excel_open" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Public_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Public_method/Get_excel_open.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Get_excel_open" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fa6448-ae10-4961-b5f7-450af7254b68" name="Default Changelist" comment="" />
+      <created>1588319846515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588319846515</updated>
+      <workItem from="1588319849042" duration="6779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588322045043">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588322045043" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1588329653120">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653120" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1588329653118">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653118" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1588329653114">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653114" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1588329653119">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653119" />
+    <state x="-1451" y="179" key="SettingsEditor" timestamp="1588326615163">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1451" y="179" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588326615163" />
+    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588326333136">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588326333136" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/appium_app$Get_excel_open.coverage" NAME="Get_excel_open Coverage Results" MODIFIED="1588329673397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Public_method" />
+  </component>
+</project>

@@ -1,6 +1,6 @@
 from selenium import webdriver
-from Assertion.Assertion_test import ConfigParser_ini_obj
-from jinli_ap.Location_element import To_elemenT_Location
+from Public_method.Assertion_test import ConfigParser_ini_obj
+from Public_method.Location_element import To_elemenT_Location
 
 
 class real_name_audit():

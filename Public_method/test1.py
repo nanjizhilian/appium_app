@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 
-XLSX_PATH = '../util/xlsx配置文件.xlsx'
+XLSX_PATH = '../util/xlsx_test.xlsx'
 
 # 读取前n行所有数据
 def gain_n_all_data(xlsx_path,xlsx_head):

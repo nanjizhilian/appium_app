@@ -1,4 +1,4 @@
-from jinli_ap.start_app import Boot_file_Configuration
+from Public_method.start_app import Boot_file_Configuration
 from selenium.webdriver.support.ui import WebDriverWait  # 显示等待包
 import configparser
 """
