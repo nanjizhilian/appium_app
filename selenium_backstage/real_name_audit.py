@@ -37,7 +37,7 @@ class real_name_audit():
 
     # -------------------------
     def home_page(self):
-        home = self.login()
+        self.login()
 
 
 

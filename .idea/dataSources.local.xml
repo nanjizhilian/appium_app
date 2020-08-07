@@ -3,8 +3,6 @@
   <component name="dataSourceStorageLocal">
     <data-source name="chat-room@47.103.100.111" uuid="cb8ec5e1-6860-4c75-813c-a6d2d92027cd">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
-      <secret-storage>forget</secret-storage>
-      <schema-mapping />
     </data-source>
   </component>
 </project>

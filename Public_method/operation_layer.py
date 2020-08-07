@@ -54,3 +54,25 @@ def delete_apk():
     appPackage = read_apk()
     os.system('adb uninstall ' + appPackage)
 
+
+# app截图方法
+def run_adb_way3(adb_command):
+   """运行adb命令并返回结果"""
+   process = os.popen(adb_command)
+   output = process.read()
+   return output
+
+
+if __name__ == '__main__':
+    run_adb_way3("adb shell screencap -p /sdcard/demo.png")
+    run_adb_way3("adb pull /demo.png")
+
+
+
+
+
+
+
+
+
+

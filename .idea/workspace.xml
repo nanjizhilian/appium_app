@@ -20,41 +20,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9fa6448-ae10-4961-b5f7-450af7254b68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_TestCase/app_test_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_TestCase/setPassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_TestCase/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_TestCase/x_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Public_method/APScheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Public_method/request_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Public_method/unittest_Assertion_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result/BeautifulReport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handle/user_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locustio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locustio/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logg/Logg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lx/client_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lx/demo222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lx/demo_jd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lx/ip_rend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lx/server_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_appium/Tiktok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_appium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_appium/jinli.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/appium_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appium_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assertion/Assertion_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Assertion_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assertion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Excel_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/jinli_Interface.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/sign_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/sign_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/test03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/token_proving.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinli_ap/Location_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Location_element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinli_ap/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Get_excel_open.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinli_ap/jinli.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinli_ap/mito.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinli_ap/operation_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operation_layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinli_ap/start_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/start_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/pages.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operatio_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public_method/Excel_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Excel_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public_method/Get_excel_open.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Get_excel_open.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public_method/Location_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/Location_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public_method/operation_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operation_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public_method/sign_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/sign_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public_method/start_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/start_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/HTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Result/HTMLTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_TestCase/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lx/jindutiao.py" beforeDir="false" afterPath="$PROJECT_DIR$/lx/jindutiao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium_backstage/real_name_audit.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_backstage/real_name_audit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smasheggs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/operation_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smasheggs/golden_eggs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smasheggs/loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smasheggs/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smasheggs/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smasheggs/zadan.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/excel_edit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/excel_edit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/read_ini.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public_method/read_ini.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/xlsx配置文件.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/xlsxopen.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/util/xlsxopen.xlsx" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/appium_app$Unittests_in_app_test_id_py.coverage" NAME="Unittests in app_test_id.py Coverage Results" MODIFIED="1591815663000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App_TestCase" />
+    <SUITE FILE_PATH="coverage/appium_app$demo_jd.coverage" NAME="demo_jd Coverage Results" MODIFIED="1592498056444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lx" />
+    <SUITE FILE_PATH="coverage/appium_app$demo222.coverage" NAME="demo222 Coverage Results" MODIFIED="1592498271103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lx" />
+    <SUITE FILE_PATH="coverage/appium_app$client_end.coverage" NAME="client_end Coverage Results" MODIFIED="1591774160181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lx" />
+    <SUITE FILE_PATH="coverage/appium_app$ip_rend.coverage" NAME="ip_rend Coverage Results" MODIFIED="1595422524868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lx" />
+    <SUITE FILE_PATH="coverage/appium_app$jinli.coverage" NAME="jinli Coverage Results" MODIFIED="1595426479015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui_appium" />
+    <SUITE FILE_PATH="coverage/appium_app$Unittests_in_setPassword_py.coverage" NAME="Unittests in setPassword.py Coverage Results" MODIFIED="1589186967683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/appium_app$server_end.coverage" NAME="server_end Coverage Results" MODIFIED="1591774154731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lx" />
+    <SUITE FILE_PATH="coverage/appium_app$real_name_audit.coverage" NAME="real_name_audit Coverage Results" MODIFIED="1596102823191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_backstage" />
+    <SUITE FILE_PATH="coverage/appium_app$jindutiao.coverage" NAME="jindutiao Coverage Results" MODIFIED="1596460124071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lx" />
+    <SUITE FILE_PATH="coverage/appium_app$app_test_id.coverage" NAME="app_test_id Coverage Results" MODIFIED="1591817271023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App_TestCase" />
+    <SUITE FILE_PATH="coverage/appium_app$APScheduler.coverage" NAME="APScheduler Coverage Results" MODIFIED="1591972510922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Public_method" />
+    <SUITE FILE_PATH="coverage/appium_app$Unittests_in_x_project_py.coverage" NAME="Unittests in x_project.py Coverage Results" MODIFIED="1591674966060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/appium_app$test.coverage" NAME="test Coverage Results" MODIFIED="1589340951046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/appium_app$Unittests_for_x_project_X_project_test_01.coverage" NAME="Unittests for x_project.X_project.test_01 Coverage Results" MODIFIED="1590746693653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/appium_app$logs.coverage" NAME="logs Coverage Results" MODIFIED="1596787681400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/appium_app$Tiktok.coverage" NAME="Tiktok Coverage Results" MODIFIED="1596790409071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui_appium" />
+    <SUITE FILE_PATH="coverage/appium_app$Unittests_in_BeautifulReport_py.coverage" NAME="Unittests in BeautifulReport.py Coverage Results" MODIFIED="1589181561328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Result" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public_method/start_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="35" column="27" selection-start-line="28" selection-start-column="4" selection-end-line="35" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui_appium/Tiktok.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/locustio/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/logg/Logg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/logg/2020-08-07.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,11 +151,70 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Remote</find>
+      <find>getcwd</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Result/BeautifulReport.py" />
+        <option value="$PROJECT_DIR$/Public_method/sign_test.py" />
+        <option value="$PROJECT_DIR$/TestCase/setPassword.py" />
+        <option value="$PROJECT_DIR$/TestCase/test.py" />
+        <option value="$PROJECT_DIR$/Public_method/Excel_method.py" />
+        <option value="$PROJECT_DIR$/Public_method/Get_excel_open.py" />
+        <option value="$PROJECT_DIR$/TestCase/x_project.py" />
+        <option value="$PROJECT_DIR$/Public_method/unittest_Assertion_method.py" />
+        <option value="$PROJECT_DIR$/lx/demo.py" />
+        <option value="$PROJECT_DIR$/lx/client_end.py" />
+        <option value="$PROJECT_DIR$/TestCase/app_test_id.py" />
+        <option value="$PROJECT_DIR$/app_TestCase/app_test_id.py" />
+        <option value="$PROJECT_DIR$/Public_method/request_method.py" />
+        <option value="$PROJECT_DIR$/Public_method/APScheduler.py" />
+        <option value="$PROJECT_DIR$/App_TestCase/app_test_id.py" />
+        <option value="$PROJECT_DIR$/lx/ip_rend.py" />
+        <option value="$PROJECT_DIR$/lx/demo_jd.py" />
+        <option value="$PROJECT_DIR$/lx/demo222.py" />
+        <option value="$PROJECT_DIR$/Public_method/operation_layer.py" />
+        <option value="$PROJECT_DIR$/config/app_parameter.py" />
+        <option value="$PROJECT_DIR$/handle/user_data.py" />
+        <option value="$PROJECT_DIR$/Public_method/Location_element.py" />
+        <option value="$PROJECT_DIR$/ui_appium/jinli.py" />
+        <option value="$PROJECT_DIR$/selenium_backstage/real_name_audit.py" />
+        <option value="$PROJECT_DIR$/lx/server_end.py" />
+        <option value="$PROJECT_DIR$/lx/jindutiao.py" />
+        <option value="$PROJECT_DIR$/Public_method/start_app.py" />
+        <option value="$PROJECT_DIR$/log/logs.py" />
+        <option value="$PROJECT_DIR$/log/Logg.py" />
+        <option value="$PROJECT_DIR$/log/logg/Logg.py" />
+        <option value="$PROJECT_DIR$/log/logg/2020-08-07.log" />
+        <option value="$PROJECT_DIR$/ui_appium/Tiktok.py" />
+        <option value="$PROJECT_DIR$/locustio/test.py" />
+      </list>
+    </option>
+  </component>
   <component name="JupyterTrust" id="4fca066c-dbd9-4f2f-aab6-158df09d5c3b" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
+  </component>
   <component name="ProjectId" id="1bIVyElsMzTWYNzP3IHB02SdUGj" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,6 +224,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,11 +235,24 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/log/logg" />
       <recent name="$PROJECT_DIR$/Public_method" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Get_excel_open" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Tiktok">
+    <configuration name="Tiktok" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="appium_app" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +260,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Public_method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui_appium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Public_method/Get_excel_open.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui_appium/Tiktok.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jindutiao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lx/jindutiao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jinli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui_appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui_appium/jinli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/logs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="real_name_audit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium_backstage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_backstage/real_name_audit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Get_excel_open" />
+        <item itemvalue="Python.Tiktok" />
+        <item itemvalue="Python.logs" />
+        <item itemvalue="Python.jindutiao" />
+        <item itemvalue="Python.real_name_audit" />
+        <item itemvalue="Python.jinli" />
       </list>
     </recent_temporary>
   </component>
@@ -130,55 +382,631 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588319846515</updated>
-      <workItem from="1588319849042" duration="6779000" />
+      <workItem from="1588319849042" duration="7710000" />
+      <workItem from="1588343267985" duration="3284000" />
+      <workItem from="1588651353115" duration="2122000" />
+      <workItem from="1588653848161" duration="1359000" />
+      <workItem from="1588742212325" duration="34000" />
+      <workItem from="1588855604577" duration="1754000" />
+      <workItem from="1589179702353" duration="8329000" />
+      <workItem from="1589198976669" duration="1935000" />
+      <workItem from="1589253091286" duration="2983000" />
+      <workItem from="1589338171373" duration="2344000" />
+      <workItem from="1590037704616" duration="1818000" />
+      <workItem from="1590211595757" duration="547000" />
+      <workItem from="1590508971746" duration="230000" />
+      <workItem from="1590637943701" duration="1103000" />
+      <workItem from="1590729937392" duration="856000" />
+      <workItem from="1590740079696" duration="9327000" />
+      <workItem from="1591607177446" duration="3968000" />
+      <workItem from="1591670126272" duration="4209000" />
+      <workItem from="1591768325207" duration="12294000" />
+      <workItem from="1592192859735" duration="3056000" />
+      <workItem from="1592480122298" duration="7388000" />
+      <workItem from="1592581048973" duration="340000" />
+      <workItem from="1593400666717" duration="992000" />
+      <workItem from="1593935057190" duration="86000" />
+      <workItem from="1594898507877" duration="591000" />
+      <workItem from="1595422416876" duration="3348000" />
+      <workItem from="1595838482700" duration="2154000" />
+      <workItem from="1596102660344" duration="169000" />
+      <workItem from="1596190364211" duration="373000" />
+      <workItem from="1596264302646" duration="18000" />
+      <workItem from="1596350294905" duration="213000" />
+      <workItem from="1596459886956" duration="498000" />
+      <workItem from="1596699602156" duration="7588000" />
+      <workItem from="1596785694224" duration="7375000" />
     </task>
+    <task id="LOCAL-00001" summary="新增了excel操作方法，和整体框架的修改">
+      <created>1588330079811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588330079811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_x_project_py - 2020.06.08 at 19h 07m 10s.xml">
+      <configuration name="Unittests in x_project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_x_project_py - 2020.06.08 at 19h 09m 56s.xml">
+      <configuration name="Unittests in x_project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_x_project_py - 2020.06.08 at 19h 13m 43s.xml">
+      <configuration name="Unittests in x_project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_x_project_py - 2020.06.08 at 20h 08m 55s.xml">
+      <configuration name="Unittests in x_project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_x_project_py - 2020.06.09 at 11h 56m 08s.xml">
+      <configuration name="Unittests in x_project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_test_id_py - 2020.06.11 at 02h 53m 18s.xml">
+      <configuration name="Unittests in app_test_id.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_test_id_py - 2020.06.11 at 02h 58m 21s.xml">
+      <configuration name="Unittests in app_test_id.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_test_id_py - 2020.06.11 at 02h 58m 31s.xml">
+      <configuration name="Unittests in app_test_id.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_test_id_py - 2020.06.11 at 02h 59m 32s.xml">
+      <configuration name="Unittests in app_test_id.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_test_id_py - 2020.06.11 at 03h 01m 04s.xml">
+      <configuration name="Unittests in app_test_id.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85920000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23032904" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43975905" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41686746" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.26987952" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增了excel操作方法，和整体框架的修改" />
+    <MESSAGE value="新增了日志和appium的一些方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增了日志和appium的一些方法" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588322045043">
+    <state x="-1069" y="410" key="#Notifications" timestamp="1588330269215">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588322045043" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1588329653120">
+    <state x="-1069" y="410" key="#Notifications/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588330269215" />
+    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588651635234">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653120" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1588329653118">
+    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588651635234" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1588664295492">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653118" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1588329653114">
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588664295492" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1588664295488">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653114" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1588329653119">
+    <state width="1878" height="282" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588664295488" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1588664295483">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588329653119" />
-    <state x="-1451" y="179" key="SettingsEditor" timestamp="1588326615163">
+    <state width="1878" height="282" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588664295482" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1588664295490">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1451" y="179" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588326615163" />
-    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588326333136">
+    <state width="1878" height="282" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588664295490" />
+    <state x="-1451" y="179" key="SettingsEditor" timestamp="1588654433568">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588326333136" />
+    <state x="-1451" y="179" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588654433568" />
+    <state x="-1360" y="280" key="Vcs.Push.Dialog.v2" timestamp="1588330165760">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588330165760" />
+    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588652170021">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588652170021" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/appium_app$Get_excel_open.coverage" NAME="Get_excel_open Coverage Results" MODIFIED="1588329673397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Public_method" />
+    <SUITE FILE_PATH="coverage/appium_app$Unittests_in_BeautifulReport_py.coverage" NAME="Unittests in BeautifulReport.py Coverage Results" MODIFIED="1588654179194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Result" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/1007302098/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/pyparsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1236">
+          <caret line="201" column="11" lean-forward="true" selection-start-line="201" selection-start-column="11" selection-end-line="201" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="181" column="31" selection-start-line="181" selection-start-column="31" selection-end-line="181" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/apscheduler/schedulers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="442" column="67" lean-forward="true" selection-start-line="442" selection-start-column="67" selection-end-line="442" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_mysql/user_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9120">
+          <caret line="641" column="13" selection-start-line="641" selection-start-column="13" selection-end-line="641" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/request_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_TestCase/app_test_id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_TestCase/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_TestCase/x_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/demo222.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="107" column="22" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/APScheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/Assertion_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/excel_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/Excel_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/Get_excel_open.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/demo_jd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_backstage/real_name_audit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/client_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle/user_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_TestCase/setPassword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/read_ini.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/sign_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/ip_rend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/unittest_Assertion_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/server_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/Location_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#9#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/operatio_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/operation_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/operation_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/jindutiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui_appium/jinli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/remote/switch_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/common/alert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public_method/start_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="35" column="27" selection-start-line="28" selection-start-column="4" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="1268" column="8" selection-start-line="1268" selection-start-column="8" selection-end-line="1268" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2020-08-07-16.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui_appium/2020-08-07.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020-08-07.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/urllib3/util/retry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="438" selection-start-line="438" selection-end-line="438" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logg/2020-08-07.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logg/Logg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="679" lean-forward="true" selection-start-line="679" selection-end-line="679" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui_appium/Tiktok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locustio/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

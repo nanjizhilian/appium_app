@@ -475,7 +475,7 @@ class _TestResult(TestResult):
         # result is a list of result in 4 tuple
         # (
         #   result code (0: success; 1: fail; 2: error),
-        #   TestCase object,
+        #   App_TestCase object,
         #   Test output (byte string),
         #   stack trace,
         # )

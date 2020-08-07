@@ -7,9 +7,10 @@ class global_var:
 	data = '5'
 	run = '6'
 	hander = '7'
-	field_depend = '8'
-	expect = '9'
-	result = '10'
+	returnData = '8'
+	field_depend = '9'
+	expect = '10'
+	result = '11'
 #获取caseid
 def get_id():
 	return global_var.Id
@@ -53,3 +54,7 @@ def get_result():
 # 是否有依赖字段
 def get_field_depend():
 	return global_var.field_depend
+
+#获取返回数据
+def getReturnResult():
+	return global_var.returnData

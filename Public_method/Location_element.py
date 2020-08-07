@@ -1,11 +1,13 @@
-from jinli_ap.jinli import jinli_app
-
-
 # 定位元素封装
+from ui_appium.jinli import stop_app
+from handle.user_data import user_data
+
+
 class To_elemenT_Location():
 
     def __init__(self):
-        self.get_server = jinli_app().get_jinli_login()
+        self.get_appium_obj = stop_app()
+        self.get_server = self.get_server.get_driver()
 
     def ElemenT(self,Location,Location_element):
         if Location == "ClassName":

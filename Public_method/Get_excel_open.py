@@ -1,3 +1,5 @@
+import json
+
 from Public_method import Excel_method
 from Public_method.operatio_excel import OperationExcel
 from Public_method.operation_json import OperetionJson
@@ -42,7 +44,7 @@ class Get_Data:
 	def get_request_url(self,row):
 		col = int(Excel_method.get_url())
 		url = self.opera_excel.get_cell_value(row,col)
-		return url
+		return json.dumps(url, ensure_ascii=False)
 
 	#获取请求数据
 	def get_request_data(self,row):
@@ -63,8 +65,9 @@ class Get_Data:
 		col = int(Excel_method.get_data())
 		excel_data = self.opera_excel.get_cell_value(row,col)
 		if excel_data == '':
+			print("数据为空")
 			return self.returnNone
-		return excel_data
+		return json.loads(excel_data)
 
 	#获取预期结果
 	def get_expcet_data(self,row):
@@ -83,8 +86,15 @@ class Get_Data:
 		else:
 			return data
 
+	# 写入返回结果
+	def wriReturn(self, rowNum, value):
+		colNum = int(Excel_method.getReturnResult())
+		self.opera_excel.write_value(rowNum, colNum, value)
+
 
 if __name__ == '__main__':
 	obj = Get_Data()
 	ret = obj.get_excel_data(4)
 	print(ret)
+
+

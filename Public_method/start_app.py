@@ -4,6 +4,9 @@ import random
 import configparser  #配置文件
 import csv
 import hashlib
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 class Boot_file_Configuration():
 
@@ -87,7 +90,10 @@ class Boot_file_Configuration():
 
     # 生成号码
     def generate_number(self):
-        str_start = random.choice(['135', '136', '138','150','180','158','181'])  # 它会循环我添加的这几个列表值，每次循环不一样
+
+        # 它会循环我添加的这几个列表值，每次循环不一样
+        str_start = random.choice(['134','135','136','137','138','139','150','151','152','157','158','159',
+                                   '187','188','147','130','131','132','155','156','185','186','133','153','180','189'])
         # sample从指令序列中随机获取指定长度的片段。sample函数不会修改原有的序列。8是保留8位
         str_end = ''.join(random.sample('0123456789', 8))
         str_phone = str_start + str_end
@@ -152,7 +158,6 @@ class Boot_file_Configuration():
         sign_md5 = md5.hexdigest()  # 该方法只接受byte类型，否则会报错
         print(sign_md5)
         return sign_md5
-
 
 
 if __name__ == '__main__':
